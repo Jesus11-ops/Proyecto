@@ -1,0 +1,170 @@
+#fondo{
+    background: linear-gradient(#000428, #004e92);
+    text-align: center;
+    height: 12rem;
+    background-size: 400px 400px
+    
+   
+   
+}
+nav{
+    margin: 0.5rem;
+    padding: 0.5rem;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 0.2rem;
+}
+
+.titulo1, .titulo2{
+    color:white;
+}
+#prin{
+    background: linear-gradient(#000428, #004e92);
+    
+}
+.carousel-item{
+    max-height: 30rem;
+    
+    
+}
+/*NUEVO*/
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+  }
+
+
+#contactanos{
+    background: linear-gradient(#000428, #004e92);
+       color: white;
+       margin: 0.3rem;
+      
+   }
+   #whatsapp{
+    position: fixed;
+    width: 3rem;
+    height: 3rem;
+    bottom: 4rem;
+    right: 4rem;
+    text-align: center;
+    z-index: 1000;  
+}
+.imagen-regreso {
+    position: fixed;
+    bottom: 4rem;
+    right: 4rem;
+    cursor: pointer;
+    z-index: 1000;
+    margin-bottom: 3rem;
+    }
+
+/*RELOJ*/
+.clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+}
+
+#time {
+    font-size: 2rem;
+    color: #fff;
+}
+
+ /*GEOLOCALOZACION*/
+ #map {
+    width: 100%;
+    height: 20rem;
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    
+  }
+  #ubi{
+    text-align: center;
+    background-color:rgb(235, 231, 231);
+    width: 69.4rem;
+    border-radius: 5px;
+
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    transform: translateY(-10px) rotateX(10deg);
+    box-shadow: 0 30px 30px rgba(0, 0, 0, 0.2);
+   
+  }
+/*CORREO*/
+.email-icon {
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+    
+  }
+  #c{
+    color:black
+}  
+
+/*ACCEDER A TABLAS DE GESTION*/
+  #barra{
+    width: 4rem;
+    height: 4rem;
+    cursor: pointer;
+    left:1rem
+  }
+
+/*..................................................................................................*/
+  
+#definicion{
+  background-color:rgb(241, 241, 241);
+}
+#ubicacion{
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+   
+}
+.card{
+  left: 2rem;
+}
+#btn{
+  align-content: center;
+}
+/*..............................CURSOS...............................................*/
+  
+#i{
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  right: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
